@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Random News Feed with Images</title>
+    <link>http://www.example.com</link>
+    <description>Latest updates from Random News with images</description>
+    <language>en-us</language>
+    
+    <item>
+      <title>Breaking News: Unexpected Event Shocks Community</title>
+      <link>http://www.example.com/breaking-news-unexpected-event</link>
+      <description>An unexpected event has shocked the local community. More details to follow as the story develops.</description>
+      <author>news@example.com (News Reporter)</author>
+      <guid>http://www.example.com/breaking-news-unexpected-event</guid>
+      <enclosure url="http://www.example.com/images/unexpected-event.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Sports Update: Local Team Wins Championship</title>
+      <link>http://www.example.com/sports-update-local-team-wins</link>
+      <description>The local team has won the championship in a thrilling final match.</description>
+      <author>sports@example.com (Sports Reporter)</author>
+      <guid>http://www.example.com/sports-update-local-team-wins</guid>
+      <enclosure url="http://www.example.com/images/local-team-wins.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Weather Alert: Severe Storm Warning Issued</title>
+      <link>http://www.example.com/weather-alert-severe-storm</link>
+      <description>A severe storm warning has been issued for the area. Residents are advised to take precautions.</description>
+      <author>weather@example.com (Weather Reporter)</author>
+      <guid>http://www.example.com/weather-alert-severe-storm</guid>
+      <enclosure url="http://www.example.com/images/severe-storm.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Technology News: New Smartphone Released</title>
+      <link>http://www.example.com/technology-news-new-smartphone</link>
+      <description>The latest smartphone has been released, featuring cutting-edge technology and innovative design.</description>
+      <author>tech@example.com (Tech Reporter)</author>
+      <guid>http://www.example.com/technology-news-new-smartphone</guid>
+      <enclosure url="http://www.example.com/images/new-smartphone.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Entertainment: Upcoming Movie Premieres</title>
+      <link>http://www.example.com/entertainment-upcoming-movie-premieres</link>
+      <description>A list of upcoming movie premieres that you won't want to miss.</description>
+      <author>entertainment@example.com (Entertainment Reporter)</author>
+      <guid>http://www.example.com/entertainment-upcoming-movie-premieres</guid>
+      <enclosure url="http://www.example.com/images/upcoming-movie-premieres.jpg" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
+
